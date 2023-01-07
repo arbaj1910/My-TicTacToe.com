@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Ubuntu&family=Yeon+Sung&display=swap');.heightrow{
+    height: 14vh !important;
+}
+.d-flexAll{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.width1{
+    width: 25rem !important; 
+}
+.fsf{
+    color: #dc3545;
+    font-size: 4rem !important;
+    font-weight: bold;
+}
+body{
+    background: url("bg3.jpg") no-repeat center center /cover;
+}
+.hover{
+    cursor: pointer !important;
+}
+.hover:hover{
+    background-color: #b9b9b8;
+}
+.fm1{
+    font-family: 'Ubuntu', sans-serif;
+}
+.fm2{
+    font-family: 'Yeon Sung', cursive;
+    font-size: 1.7rem;
+    color: #4d4948;
+    font-weight: bold;
+}
+.fm3{
+    font-family: 'Bree Serif', serif !important;
+}
+#imgwin{
+    visibility: hidden;
+}
